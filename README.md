@@ -73,7 +73,7 @@ The SOC architecture includes:
 ---
 
 ## 👩‍💻 Author
-Created by **[Ewelina Wisińska]**  
+Created by **Ewelina Wisińska**  
 
 ---
 
